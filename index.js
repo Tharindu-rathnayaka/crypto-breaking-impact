@@ -43,6 +43,10 @@ async function fetchRecentNews() {
   });
   if (!res.ok) throw new Error(`Failed to fetch news: ${res.status}`);
   const data = await res.json();
+  if (!data.articles || data.articles.length === 0) {
+    // Log the full raw response so we can see the actual shape/error instead of guessing.
+    console.log("Feed returned no articles. Raw response:", JSON.stringify(data));
+  }
   return data.articles || [];
 }
 
