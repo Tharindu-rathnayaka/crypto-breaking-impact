@@ -5,9 +5,13 @@
 
 import fs from "node:fs";
 
-const BREAKING_FEED_URL = "https://cryptocurrency.cv/api/breaking";
+const NEWS_FEED_URL = "https://cryptocurrency.cv/api/news?limit=50";
 const STATE_FILE = "state.json";
 const STATE_RETENTION_HOURS = 24 * 7; // keep seen-article IDs for 7 days, then prune
+
+// Only consider articles published within this many hours — keeps the first run (and any run
+// after downtime) from suddenly processing a huge backlog through the AI all at once.
+const RECENCY_WINDOW_HOURS = 3;
 
 const NTFY_TOPIC = process.env.NTFY_TOPIC; // use a DIFFERENT topic name than the macro bot
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
@@ -33,11 +37,11 @@ function pruneState(state) {
   }
 }
 
-async function fetchBreakingNews() {
-  const res = await fetch(BREAKING_FEED_URL, {
+async function fetchRecentNews() {
+  const res = await fetch(NEWS_FEED_URL, {
     headers: { "User-Agent": "TharuCryptoBreakingAlerts/1.0 (personal use)" },
   });
-  if (!res.ok) throw new Error(`Failed to fetch breaking news: ${res.status}`);
+  if (!res.ok) throw new Error(`Failed to fetch news: ${res.status}`);
   const data = await res.json();
   return data.articles || [];
 }
@@ -116,8 +120,10 @@ async function main() {
   const state = loadState();
   pruneState(state);
 
-  const articles = await fetchBreakingNews();
-  const unseen = articles.filter((a) => a.link && !state.seen[a.link]);
+  const articles = await fetchRecentNews();
+  const cutoff = Date.now() - RECENCY_WINDOW_HOURS * 60 * 60 * 1000;
+  const recent = articles.filter((a) => a.pubDate && new Date(a.pubDate).getTime() >= cutoff);
+  const unseen = recent.filter((a) => a.link && !state.seen[a.link]);
 
   let alertCount = 0;
 
