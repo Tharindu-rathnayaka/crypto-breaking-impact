@@ -1,0 +1,13 @@
+{
+  "name": "crypto-breaking-alerts",
+  "version": "1.0.0",
+  "description": "Personal ntfy push alerts for high-impact, sudden crypto news (hacks, regulatory shocks, exchange collapses) filtered by AI.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
