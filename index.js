@@ -125,6 +125,14 @@ async function main() {
   const recent = articles.filter((a) => a.pubDate && new Date(a.pubDate).getTime() >= cutoff);
   const unseen = recent.filter((a) => a.link && !state.seen[a.link]);
 
+  console.log(
+    `Fetched ${articles.length} total article(s) from feed, ${recent.length} within the last ${RECENCY_WINDOW_HOURS}h, ${unseen.length} not yet processed.`
+  );
+  if (articles.length > 0 && recent.length === 0) {
+    // Helps diagnose a pubDate/parsing mismatch vs a genuinely quiet news period.
+    console.log("Sample article for debugging:", JSON.stringify(articles[0]));
+  }
+
   let alertCount = 0;
 
   for (const article of unseen) {
