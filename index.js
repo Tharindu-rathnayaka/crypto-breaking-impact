@@ -77,6 +77,21 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+async function callGeminiOnce(prompt) {
+  const res = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key=${GEMINI_API_KEY}`,
+    {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] }),
+    }
+  );
+  const data = await res.json();
+  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
+  const errorCode = data?.error?.code;
+  return { text, errorCode, raw: data };
+}
+
 async function classifyImpact(article) {
   const prompt = `You are a crypto market analyst filtering breaking news for genuine, sudden
 market-moving significance. Decide if this news could cause a SUDDEN, sharp price move in
@@ -92,27 +107,35 @@ Headline: ${article.title}
 Description: ${article.description || "N/A"}
 Source: ${article.source || "Unknown"}`;
 
-  const res = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key=${GEMINI_API_KEY}`,
-    {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] }),
+  // Retry a couple of times on transient errors (503 = overloaded, 429 = rate limited) before
+  // giving up — a temporary Google-side blip shouldn't cost a genuinely important alert.
+  const RETRY_DELAYS_MS = [5000, 10000];
+  let lastRaw = null;
+
+  for (let attempt = 0; attempt <= RETRY_DELAYS_MS.length; attempt++) {
+    const { text, errorCode, raw } = await callGeminiOnce(prompt);
+    lastRaw = raw;
+
+    if (text) {
+      const verdictMatch = text.match(/VERDICT:\s*(HIGH|LOW)/i);
+      const reasonMatch = text.match(/REASON:\s*([\s\S]*)/i);
+      return {
+        verdict: verdictMatch ? verdictMatch[1].toUpperCase() : "LOW",
+        reason: reasonMatch ? reasonMatch[1].trim() : text,
+      };
     }
-  );
-  const data = await res.json();
-  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
-  if (!text) {
-    console.error("Gemini API did not return text. Raw response:", JSON.stringify(data));
-    return { verdict: "LOW", reason: "AI analysis unavailable for this article." };
+
+    const isRetryable = errorCode === 503 || errorCode === 429;
+    if (isRetryable && attempt < RETRY_DELAYS_MS.length) {
+      console.log(`Gemini returned ${errorCode}, retrying in ${RETRY_DELAYS_MS[attempt] / 1000}s...`);
+      await sleep(RETRY_DELAYS_MS[attempt]);
+      continue;
+    }
+    break;
   }
 
-  const verdictMatch = text.match(/VERDICT:\s*(HIGH|LOW)/i);
-  const reasonMatch = text.match(/REASON:\s*([\s\S]*)/i);
-  return {
-    verdict: verdictMatch ? verdictMatch[1].toUpperCase() : "LOW",
-    reason: reasonMatch ? reasonMatch[1].trim() : text,
-  };
+  console.error("Gemini API did not return text after retries. Raw response:", JSON.stringify(lastRaw));
+  return { verdict: "LOW", reason: "AI analysis unavailable for this article." };
 }
 
 function toAsciiSafeHeader(str) {
