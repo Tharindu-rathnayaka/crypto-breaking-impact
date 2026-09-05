@@ -1,11 +1,23 @@
-// crypto-breaking-alerts: breaking crypto-specific news -> AI impact filter -> ntfy push
+// crypto-breaking-alerts: crypto news RSS feeds -> AI impact filter -> ntfy push
 // Separate from crypto-news-bot (which covers macro economic calendar events).
 // This one watches for sudden, wick-causing crypto news: hacks, regulatory bombshells,
 // exchange collapses, major exploits, etc. Runs every 30 min via GitHub Actions.
+//
+// Pulls directly from major outlets' own RSS feeds (not a third-party aggregator API) —
+// these are free, stable, and not subject to a random paywall/rate-limit change.
 
 import fs from "node:fs";
+import Parser from "rss-parser";
 
-const NEWS_FEED_URL = "https://cryptocurrency.cv/api/news?limit=50";
+const RSS_FEEDS = [
+  { source: "CoinDesk", url: "https://www.coindesk.com/arc/outboundfeeds/rss/" },
+  { source: "Cointelegraph", url: "https://cointelegraph.com/rss" },
+  { source: "Decrypt", url: "https://decrypt.co/feed" },
+  { source: "The Block", url: "https://www.theblock.co/rss.xml" },
+  { source: "CryptoSlate", url: "https://cryptoslate.com/feed/" },
+  { source: "Bitcoin Magazine", url: "https://bitcoinmagazine.com/feed" },
+];
+
 const STATE_FILE = "state.json";
 const STATE_RETENTION_HOURS = 24 * 7; // keep seen-article IDs for 7 days, then prune
 
@@ -15,6 +27,8 @@ const RECENCY_WINDOW_HOURS = 3;
 
 const NTFY_TOPIC = process.env.NTFY_TOPIC; // use a DIFFERENT topic name than the macro bot
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+
+const parser = new Parser();
 
 function loadState() {
   try {
@@ -37,17 +51,30 @@ function pruneState(state) {
   }
 }
 
-async function fetchRecentNews() {
-  const res = await fetch(NEWS_FEED_URL, {
-    headers: { "User-Agent": "TharuCryptoBreakingAlerts/1.0 (personal use)" },
-  });
-  if (!res.ok) throw new Error(`Failed to fetch news: ${res.status}`);
-  const data = await res.json();
-  if (!data.articles || data.articles.length === 0) {
-    // Log the full raw response so we can see the actual shape/error instead of guessing.
-    console.log("Feed returned no articles. Raw response:", JSON.stringify(data));
+async function fetchAllFeeds() {
+  const results = [];
+  for (const { source, url } of RSS_FEEDS) {
+    try {
+      const feed = await parser.parseURL(url);
+      for (const item of feed.items || []) {
+        results.push({
+          title: item.title || "(untitled)",
+          link: item.link || item.guid || "",
+          description: item.contentSnippet || item.content || "",
+          pubDate: item.isoDate || item.pubDate || null,
+          source,
+        });
+      }
+    } catch (err) {
+      // One dead/slow feed shouldn't take down the whole run — log and move on.
+      console.error(`Failed to fetch/parse feed for ${source} (${url}):`, err.message);
+    }
   }
-  return data.articles || [];
+  return results;
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 async function classifyImpact(article) {
@@ -90,7 +117,7 @@ Source: ${article.source || "Unknown"}`;
 
 function toAsciiSafeHeader(str) {
   // HTTP headers must be plain ASCII (ByteString). Strip anything outside that range
-  // so unexpected characters from the feed can never crash the request.
+  // so unexpected characters from a feed can never crash the request.
   return String(str).replace(/[^\x00-\xFF]/g, "");
 }
 
@@ -112,10 +139,6 @@ async function sendNtfyMessage({ title, message, priority, tags }) {
   }
 }
 
-function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
 async function main() {
   if (!NTFY_TOPIC || !GEMINI_API_KEY) {
     throw new Error("Missing env vars. Need NTFY_TOPIC, GEMINI_API_KEY.");
@@ -124,18 +147,14 @@ async function main() {
   const state = loadState();
   pruneState(state);
 
-  const articles = await fetchRecentNews();
+  const articles = await fetchAllFeeds();
   const cutoff = Date.now() - RECENCY_WINDOW_HOURS * 60 * 60 * 1000;
   const recent = articles.filter((a) => a.pubDate && new Date(a.pubDate).getTime() >= cutoff);
   const unseen = recent.filter((a) => a.link && !state.seen[a.link]);
 
   console.log(
-    `Fetched ${articles.length} total article(s) from feed, ${recent.length} within the last ${RECENCY_WINDOW_HOURS}h, ${unseen.length} not yet processed.`
+    `Fetched ${articles.length} total article(s) across ${RSS_FEEDS.length} feeds, ${recent.length} within the last ${RECENCY_WINDOW_HOURS}h, ${unseen.length} not yet processed.`
   );
-  if (articles.length > 0 && recent.length === 0) {
-    // Helps diagnose a pubDate/parsing mismatch vs a genuinely quiet news period.
-    console.log("Sample article for debugging:", JSON.stringify(articles[0]));
-  }
 
   let alertCount = 0;
 
@@ -144,12 +163,12 @@ async function main() {
     const { verdict, reason } = await classifyImpact(article);
 
     if (verdict === "HIGH") {
-      const title = `\u26A0 BREAKING: ${article.title}`;
-      const message = `\uD83D\uDD34 ${article.source || "Unknown source"}\n\n${reason}\n\n${article.link}`;
+      const title = `BREAKING: ${article.title}`;
+      const message = `🔴 ${article.source}\n\n${reason}\n\n${article.link}`;
       await sendNtfyMessage({
         title,
         message,
-        priority: 5, // urgent — this is meant to cut through, sound/vibrate even on silent
+        priority: 5, // urgent — cuts through, sound/vibrate even on silent
         tags: "rotating_light,warning",
       });
       alertCount++;
@@ -160,9 +179,7 @@ async function main() {
     saveState(state); // save immediately so progress isn't lost if a later item fails
   }
 
-  console.log(
-    `Checked ${unseen.length} new article(s), sent ${alertCount} HIGH-impact alert(s) via ntfy.`
-  );
+  console.log(`Sent ${alertCount} HIGH-impact alert(s) via ntfy.`);
 }
 
 main().catch((err) => {
