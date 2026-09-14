@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.coindesk.com/markets/2026/09/07/weekend-altcoin-rally-runs-out-of-road-as-bitcoin-slips": "2026-09-07T10:26:33.000Z",
-    "https://www.coindesk.com/markets/2026/09/07/bitcoin-investors-turn-to-selling-as-usd83-000-resistance-holds": "2026-09-07T09:48:51.000Z",
-    "https://www.coindesk.com/business/2026/09/07/coldcard-hacker-moves-45-of-bitcoin-stolen-in-third-attack-wave": "2026-09-07T09:32:05.000Z",
-    "https://www.coindesk.com/markets/2026/09/07/no-friday-s-jobs-report-hasn-t-materially-boost-fed-rate-hike-odds": "2026-09-07T08:38:17.000Z",
-    "https://www.coindesk.com/business/2026/09/07/live-updates-bitcoin-holds-usd79-000-as-hike-odds-climb-zcash-runs-45-in-a-week": "2026-09-07T08:17:12.000Z",
-    "https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead": "2026-09-07T08:07:05.000Z",
-    "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats": "2026-09-07T08:02:18.000Z",
-    "https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-07T09:51:00.000Z",
-    "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-07T09:36:19.000Z",
-    "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-07T07:45:39.000Z",
-    "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid": "2026-09-07T09:55:42.000Z",
-    "https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673": "2026-09-07T10:20:16.000Z",
-    "https://www.theblock.co/news/business/2026-09-07-capital-b-buys-29-million-worth-bitcoin-413667": "2026-09-07T08:42:02.000Z",
-    "https://cryptoslate.com/a-coinbase-backed-crypto-bridge-is-shutting-down-after-its-business-model-stopped-working/": "2026-09-07T10:00:29.000Z",
-    "https://cryptoslate.com/a-whitehat-hacker-is-holding-320-million-in-drained-bitcoin-until-developers-prove-they-patched-a-fatal-network-flaw/": "2026-09-07T08:55:13.000Z",
     "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop": "2026-09-07T15:44:30.000Z",
     "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe": "2026-09-07T15:28:43.000Z",
     "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub": "2026-09-07T14:12:15.000Z",
@@ -312,6 +297,21 @@
     "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-14T00:15:37.000Z",
     "https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-14T05:16:59.000Z",
     "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-14T04:55:28.000Z",
-    "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575": "2026-09-14T04:24:37.000Z"
+    "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575": "2026-09-14T04:24:37.000Z",
+    "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead": "2026-09-14T12:58:42.000Z",
+    "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion": "2026-09-14T12:08:35.000Z",
+    "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap": "2026-09-14T12:07:19.000Z",
+    "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market": "2026-09-14T11:58:28.000Z",
+    "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges": "2026-09-14T11:44:21.000Z",
+    "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks": "2026-09-14T11:15:00.000Z",
+    "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-14T11:38:44.000Z",
+    "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market": "2026-09-14T11:01:05.000Z",
+    "https://www.theblock.co/news/business/2026-09-14-bitmine-adds-27180-eth-as-adviser-tom-demark-sees-sharp-move-in-coming-weeks-414621": "2026-09-14T13:20:51.000Z",
+    "https://www.theblock.co/news/deals/2026-09-14-sp-global-leads-strategic-investment-in-crypto-data-firm-kaiko-extending-series-b-to-110-million-414618": "2026-09-14T13:13:06.000Z",
+    "https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603": "2026-09-14T12:08:37.000Z",
+    "https://cryptoslate.com/fed-data-show-hedge-funds-added-400-billion-before-bitcoins-september-rate-test/": "2026-09-14T13:05:50.000Z",
+    "https://cryptoslate.com/wall-street-braces-for-a-monday-meltdown-so-why-is-bitcoin-holding-near-78000/": "2026-09-14T12:30:11.000Z",
+    "https://cryptoslate.com/leveraged-funds-rebuilt-1669-btc-of-bitcoin-futures-shorts-before-fed/": "2026-09-14T11:45:32.000Z",
+    "https://cryptoslate.com/another-public-company-has-abandoned-its-bitcoin-treasury-after-selling-the-last-764-btc/": "2026-09-14T10:50:32.000Z"
   }
 }
