@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network": "2026-09-08T04:41:17.000Z",
-    "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60": "2026-09-08T04:40:57.000Z",
-    "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-08T05:10:33.000Z",
-    "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-08T03:46:17.000Z",
-    "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716": "2026-09-08T04:17:21.000Z",
     "https://www.coindesk.com/business/2026/09/08/stablecoins-could-save-south-korean-merchants-up-to-usd3-8-billion-a-year-budget-office-says": "2026-09-08T09:51:01.000Z",
     "https://www.coindesk.com/tech/2026/09/08/tracking-cocoa-may-be-just-the-beginning-for-pwc-merck-hashgraph-provenance-system": "2026-09-08T09:39:36.000Z",
     "https://www.coindesk.com/tech/2026/09/08/live-updates": "2026-09-08T08:30:30.000Z",
@@ -326,6 +321,17 @@
     "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it": "2026-09-14T23:30:40.000Z",
     "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act": "2026-09-14T22:34:18.000Z",
     "https://cryptoslate.com/a-new-xrpl-upgrade-could-concentrate-xrp-ownership-inside-banks-instead-of-retail-wallets/": "2026-09-15T00:00:22.000Z",
-    "https://cryptoslate.com/circles-arc-launch-ties-wall-street-firms-to-the-network-without-making-them-its-safety-net/": "2026-09-14T22:50:42.000Z"
+    "https://cryptoslate.com/circles-arc-launch-ties-wall-street-firms-to-the-network-without-making-them-its-safety-net/": "2026-09-14T22:50:42.000Z",
+    "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds": "2026-09-15T05:12:06.000Z",
+    "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum": "2026-09-15T04:34:10.000Z",
+    "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions": "2026-09-15T04:09:01.000Z",
+    "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week": "2026-09-15T03:27:38.000Z",
+    "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb": "2026-09-15T03:23:28.000Z",
+    "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-15T04:19:16.000Z",
+    "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-15T03:33:23.000Z",
+    "https://www.theblock.co/news/defi/2026-09-15-balancer-proposes-winding-down-414782": "2026-09-15T05:29:13.000Z",
+    "https://www.theblock.co/news/ecosystems/2026-09-15-ethereum-base-account-abstraction-proposals-414775": "2026-09-15T04:35:26.000Z",
+    "https://www.theblock.co/news/regulation/2026-09-15-doj-61-million-crypto-proceeds-iranian-oil-sales-414768": "2026-09-15T04:01:48.000Z",
+    "https://cryptoslate.com/coinbase-backed-base-just-exposed-the-uncomfortable-truth-about-ethereums-l2s/": "2026-09-15T03:20:48.000Z"
   }
 }
