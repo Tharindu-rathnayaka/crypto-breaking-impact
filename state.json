@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act": "2026-09-15T21:58:48.000Z",
-    "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act": "2026-09-15T20:03:17.000Z",
-    "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-15T21:23:00.000Z",
-    "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-15T20:37:34.000Z",
-    "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump": "2026-09-15T21:46:03.000Z",
-    "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act": "2026-09-15T21:10:06.000Z",
-    "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work": "2026-09-15T20:09:19.000Z",
-    "https://www.theblock.co/news/regulation/2026-09-15-this-one-stings-clarity-act-fails-senate-is-cryptos-biggest-regulatory-push-dead-415135": "2026-09-15T21:24:18.000Z",
-    "https://cryptoslate.com/coinex-quits-after-9-years-as-crypto-trading-activity-concentrates-at-biggest-exchanges/": "2026-09-15T21:55:12.000Z",
-    "https://cryptoslate.com/aelf-restores-core-services-but-exchange-access-still-depends-on-venue/": "2026-09-15T20:45:47.000Z",
-    "https://cryptoslate.com/a-major-bitcoin-core-update-changes-default-wallet-protocols-risking-temporary-disruption-across-popular-apps/": "2026-09-15T19:50:39.000Z",
     "https://cryptoslate.com/congress-wants-to-make-crypto-easier-to-use-and-still-collect-500-million-more-in-taxes/": "2026-09-16T00:20:34.000Z",
     "https://cryptoslate.com/tether-binance-and-a-1-5-billion-iran-oil-network-converge-in-new-us-forfeiture-case/": "2026-09-15T23:00:36.000Z",
     "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending": "2026-09-16T14:59:34.000Z",
@@ -277,6 +266,21 @@
     "https://decrypt.co/378934/dogecoin-price-jumps-highest-months": "2026-09-22T17:09:30.000Z",
     "https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083": "2026-09-22T18:44:53.000Z",
     "https://cryptoslate.com/why-bitcoins-rally-is-dangerous-according-to-new-fed-data/": "2026-09-22T18:05:59.000Z",
-    "https://cryptoslate.com/narrowing-price-cushions-leave-bitcoin-loans-vulnerable-to-4-7-price-dips-as-aave-weighs-higher-leverage/": "2026-09-22T17:00:59.000Z"
+    "https://cryptoslate.com/narrowing-price-cushions-leave-bitcoin-loans-vulnerable-to-4-7-price-dips-as-aave-weighs-higher-leverage/": "2026-09-22T17:00:59.000Z",
+    "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says": "2026-09-22T21:29:05.000Z",
+    "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house": "2026-09-22T20:31:02.000Z",
+    "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-22T21:06:52.000Z",
+    "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-22T20:57:51.000Z",
+    "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-22T19:56:48.000Z",
+    "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek": "2026-09-22T22:16:03.000Z",
+    "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks": "2026-09-22T21:16:03.000Z",
+    "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures": "2026-09-22T20:46:03.000Z",
+    "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody": "2026-09-22T20:01:03.000Z",
+    "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust": "2026-09-22T19:31:03.000Z",
+    "https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120": "2026-09-22T21:42:19.000Z",
+    "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111": "2026-09-22T21:08:20.000Z",
+    "https://cryptoslate.com/why-federal-approval-wont-save-these-3-crypto-banks/": "2026-09-22T21:20:03.000Z",
+    "https://cryptoslate.com/bitcoin-may-go-quantum-safe-while-lightning-privacy-stays-exposed/": "2026-09-22T20:15:00.000Z",
+    "https://cryptoslate.com/animoca-brands-suspends-currenc-deal-that-would-have-taken-it-public/": "2026-09-22T19:20:31.000Z"
   }
 }
