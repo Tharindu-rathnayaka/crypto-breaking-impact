@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access": "2026-09-17T20:16:04.000Z",
-    "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462": "2026-09-17T20:05:28.000Z",
-    "https://cryptoslate.com/optimism-just-approved-the-upgrade-its-superchain-needs-before-interoperability-can-go-live/": "2026-09-17T19:40:13.000Z",
-    "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work": "2026-09-17T21:47:22.000Z",
-    "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending": "2026-09-17T21:28:35.000Z",
-    "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying": "2026-09-17T22:31:03.000Z",
-    "https://decrypt.co/378575/us-china-never-let-ai-control-nukes": "2026-09-17T21:46:03.000Z",
-    "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai": "2026-09-17T21:16:03.000Z",
-    "https://decrypt.co/378553/why-chipotle-working-with-palantir": "2026-09-17T20:46:03.000Z",
-    "https://cryptoslate.com/after-congress-killed-its-landmark-crypto-bill-the-sec-unlocked-the-77-trillion-us-stock-market-through-tokenization/": "2026-09-17T21:00:20.000Z",
     "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000": "2026-09-18T04:49:17.000Z",
     "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike": "2026-09-18T03:03:38.000Z",
     "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-18T04:51:29.000Z",
@@ -302,6 +292,26 @@
     "https://www.theblock.co/news/markets/2026-09-24-jpmorgan-bitcoin-production-cost-miners-relief-416283": "2026-09-24T18:22:39.000Z",
     "https://cryptoslate.com/nyse-is-assembling-the-pipes-for-a-5-5-trillion-tokenized-asset-market/": "2026-09-24T19:00:35.000Z",
     "https://cryptoslate.com/australia-just-got-a-real-world-look-at-what-happens-when-an-ai-refuses-to-stop/": "2026-09-24T17:40:20.000Z",
-    "https://cryptoslate.com/cryptos-bear-market-wiped-out-over-2-trillion-yet-on-chain-activity-held-above-9-trillion/": "2026-09-24T16:40:47.000Z"
+    "https://cryptoslate.com/cryptos-bear-market-wiped-out-over-2-trillion-yet-on-chain-activity-held-above-9-trillion/": "2026-09-24T16:40:47.000Z",
+    "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation": "2026-09-24T22:41:44.000Z",
+    "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins": "2026-09-24T22:28:49.000Z",
+    "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe": "2026-09-24T21:59:32.000Z",
+    "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death": "2026-09-24T20:13:25.000Z",
+    "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks": "2026-09-24T20:05:00.000Z",
+    "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc": "2026-09-24T20:04:46.000Z",
+    "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone": "2026-09-24T20:03:21.000Z",
+    "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-24T22:10:09.000Z",
+    "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-24T21:47:17.000Z",
+    "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-24T21:42:51.000Z",
+    "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-24T20:32:16.000Z",
+    "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-24T20:04:07.000Z",
+    "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital": "2026-09-24T21:56:03.000Z",
+    "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets": "2026-09-24T21:15:38.000Z",
+    "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit": "2026-09-24T20:01:03.000Z",
+    "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345": "2026-09-24T21:20:47.000Z",
+    "https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336": "2026-09-24T20:19:46.000Z",
+    "https://cryptoslate.com/bitgets-351-6-million-hack-pushes-september-crypto-losses-to-2026-high/": "2026-09-24T22:10:42.000Z",
+    "https://cryptoslate.com/why-trons-30-trillion-lifetime-volume-could-become-a-trap/": "2026-09-24T21:20:14.000Z",
+    "https://cryptoslate.com/man-sentenced-to-12-years-for-16m-coinbase-customer-support-scam/": "2026-09-24T20:00:28.000Z"
   }
 }
