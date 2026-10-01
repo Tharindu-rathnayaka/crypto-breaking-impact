@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what": "2026-09-23T22:56:03.000Z",
-    "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says": "2026-09-23T22:31:45.000Z",
-    "https://cryptoslate.com/bitcoin-slips-below-85000-as-5-treasury-yield-returns-to-haunt-risk-assets/": "2026-09-23T23:40:38.000Z",
-    "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66": "2026-09-24T05:24:56.000Z",
-    "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007": "2026-09-24T04:13:01.000Z",
-    "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-24T04:52:40.000Z",
-    "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-24T04:44:12.000Z",
-    "https://cryptoslate.com/galaxy-adds-100m-sky-token-and-institutional-adoption-is-tested/": "2026-09-24T04:30:35.000Z",
-    "https://cryptoslate.com/cardano-proposal-slashes-fees-by-55-but-it-comes-with-a-cost-for-small-pools/": "2026-09-24T02:50:26.000Z",
     "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high": "2026-09-24T10:30:28.000Z",
     "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000": "2026-09-24T10:11:51.000Z",
     "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term": "2026-09-24T09:48:09.000Z",
@@ -265,6 +256,12 @@
     "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362": "2026-09-30T21:53:05.000Z",
     "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365": "2026-09-30T20:37:08.000Z",
     "https://cryptoslate.com/standard-chartered-says-ethenas-ena-could-crush-bitcoin-and-ethereum-returns-by-2028/": "2026-09-30T21:30:01.000Z",
-    "https://cryptoslate.com/bitgets-hackers-turn-to-zcash-after-50-million-laundering-route-gets-blocked/": "2026-09-30T20:20:28.000Z"
+    "https://cryptoslate.com/bitgets-hackers-turn-to-zcash-after-50-million-laundering-route-gets-blocked/": "2026-09-30T20:20:28.000Z",
+    "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards": "2026-10-01T07:06:30.000Z",
+    "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps": "2026-10-01T04:58:52.000Z",
+    "https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-01T06:05:51.000Z",
+    "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-01T04:44:33.000Z",
+    "https://cryptoslate.com/us-court-blocks-victims-from-127000-seized-bitcoin-and-petition-rules-are-blamed/": "2026-10-01T06:30:21.000Z",
+    "https://cryptoslate.com/three-hidden-flaws-in-uniswaps-stablepair-hook-drain-lp-returns/": "2026-10-01T05:10:32.000Z"
   }
 }
