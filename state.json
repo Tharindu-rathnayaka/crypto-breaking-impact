@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week": "2026-09-25T22:17:38.000Z",
-    "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations": "2026-09-25T21:17:30.000Z",
-    "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-25T20:37:21.000Z",
-    "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-25T20:26:40.000Z",
-    "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex": "2026-09-25T21:25:35.000Z",
-    "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914": "2026-09-25T20:32:40.000Z",
-    "https://cryptoslate.com/dormant-whale-moves-380m-bitcoin-leaving-the-sale-question-unanswered/": "2026-09-25T22:50:32.000Z",
-    "https://cryptoslate.com/bitcoin-survives-a-5-2-treasury-shock-as-traders-slash-1-7-billion-in-leverage/": "2026-09-25T21:10:07.000Z",
     "https://cryptoslate.com/ibm-links-17-banks-to-the-swift-ledger-but-the-cloud-risk-persists/": "2026-09-26T00:40:46.000Z",
     "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-09-26T09:02:22.000Z",
     "https://cryptoslate.com/bitcoin-posts-on-x-can-pay-even-when-bitcoin-doesnt/": "2026-09-26T09:05:19.000Z",
@@ -199,6 +191,10 @@
     "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down": "2026-10-02T17:47:06.000Z",
     "https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion": "2026-10-02T17:30:40.000Z",
     "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth/": "2026-10-02T19:10:35.000Z",
-    "https://cryptoslate.com/evernorths-nasdaq-xrp-treasury-is-approved-but-its-real-buying-power-isnt-the-300-million-expected/": "2026-10-02T17:50:25.000Z"
+    "https://cryptoslate.com/evernorths-nasdaq-xrp-treasury-is-approved-but-its-real-buying-power-isnt-the-300-million-expected/": "2026-10-02T17:50:25.000Z",
+    "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters": "2026-10-02T21:23:20.000Z",
+    "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack": "2026-10-02T21:16:04.000Z",
+    "https://cryptoslate.com/blast-shuts-down-20m-layer-2-network-forcing-oct-26-exit-deadline/": "2026-10-02T23:10:14.000Z",
+    "https://cryptoslate.com/stablecoin-issuers-have-replaced-40-of-chinas-lost-us-treasury-demand/": "2026-10-02T21:50:39.000Z"
   }
 }
