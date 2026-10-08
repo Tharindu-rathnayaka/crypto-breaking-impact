@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors": "2026-10-01T18:45:29.000Z",
-    "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-01T18:45:09.000Z",
-    "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-01T18:01:49.000Z",
-    "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning": "2026-10-01T19:46:03.000Z",
-    "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission": "2026-10-01T19:16:03.000Z",
-    "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public": "2026-10-01T18:46:03.000Z",
-    "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group": "2026-10-01T18:12:04.000Z",
-    "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it": "2026-10-01T17:11:44.000Z",
-    "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452": "2026-10-01T19:10:36.000Z",
-    "https://cryptoslate.com/bitcoin-etfs-are-5-billion-from-a-new-flow-record-after-a-brutal-11-month-reset/": "2026-10-01T19:00:39.000Z",
-    "https://cryptoslate.com/bond-yield-explosion-gives-bitcoin-a-strong-signal-is-now-finally-satoshis-time/": "2026-10-01T18:00:21.000Z",
-    "https://cryptoslate.com/uks-2027-crypto-rules-could-block-new-business-with-existing-customers/": "2026-10-01T17:00:37.000Z",
     "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-02T02:02:13.000Z",
     "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-02T01:07:08.000Z",
     "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504": "2026-10-02T00:22:58.000Z",
@@ -177,6 +165,21 @@
     "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052": "2026-10-08T14:52:27.000Z",
     "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043": "2026-10-08T14:04:39.000Z",
     "https://cryptoslate.com/bitcoin-needs-a-36-rise-to-hit-citis-target-we-tested-the-demand-case/": "2026-10-08T14:00:36.000Z",
-    "https://cryptoslate.com/bitcoin-keeps-losing-ground-when-wall-street-opens-as-coinbase-discount-deepens/": "2026-10-08T13:00:24.000Z"
+    "https://cryptoslate.com/bitcoin-keeps-losing-ground-when-wall-street-opens-as-coinbase-discount-deepens/": "2026-10-08T13:00:24.000Z",
+    "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says": "2026-10-08T19:46:15.000Z",
+    "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears": "2026-10-08T18:14:39.000Z",
+    "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act": "2026-10-08T18:06:41.000Z",
+    "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-08T19:31:38.000Z",
+    "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-08T19:17:18.000Z",
+    "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-08T18:17:35.000Z",
+    "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity": "2026-10-08T20:16:03.000Z",
+    "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market": "2026-10-08T19:31:03.000Z",
+    "https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years": "2026-10-08T18:46:04.000Z",
+    "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand": "2026-10-08T18:16:05.000Z",
+    "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red": "2026-10-08T17:46:05.000Z",
+    "https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115": "2026-10-08T18:46:59.000Z",
+    "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064": "2026-10-08T17:30:58.000Z",
+    "https://cryptoslate.com/xrp-has-63-billion-circulating-tokens-but-how-many-are-actually-for-sale/": "2026-10-08T19:40:44.000Z",
+    "https://cryptoslate.com/europol-urges-crypto-to-prepare-wallet-upgrades-now-warning-migration-could-take-years/": "2026-10-08T18:40:23.000Z"
   }
 }
