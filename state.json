@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders": "2026-10-08T14:39:48.000Z",
-    "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard": "2026-10-08T14:24:24.000Z",
-    "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount": "2026-10-08T14:03:20.000Z",
-    "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works": "2026-10-08T13:06:24.000Z",
-    "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-08T13:42:27.000Z",
-    "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-08T13:30:00.000Z",
-    "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-08T12:54:21.000Z",
-    "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-08T12:03:28.000Z",
-    "https://decrypt.co/380407/ai-video-game-mod-mashups-are-taking-off-here-are-the-wackiest-examples": "2026-10-08T12:15:51.000Z",
-    "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052": "2026-10-08T14:52:27.000Z",
-    "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043": "2026-10-08T14:04:39.000Z",
-    "https://cryptoslate.com/bitcoin-needs-a-36-rise-to-hit-citis-target-we-tested-the-demand-case/": "2026-10-08T14:00:36.000Z",
-    "https://cryptoslate.com/bitcoin-keeps-losing-ground-when-wall-street-opens-as-coinbase-discount-deepens/": "2026-10-08T13:00:24.000Z",
     "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says": "2026-10-08T19:46:15.000Z",
     "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears": "2026-10-08T18:14:39.000Z",
     "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act": "2026-10-08T18:06:41.000Z",
@@ -202,6 +189,22 @@
     "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-15T09:14:28.000Z",
     "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers": "2026-10-15T10:01:21.000Z",
     "https://cryptoslate.com/bitcoins-80000-buy-wall-hides-a-liquidation-trap-that-could-send-prices-toward-78000/": "2026-10-15T09:40:18.000Z",
-    "https://cryptoslate.com/9-mega-banks-block-crypto-accounts-but-new-occ-rules-bite-back/": "2026-10-15T08:20:16.000Z"
+    "https://cryptoslate.com/9-mega-banks-block-crypto-accounts-but-new-occ-rules-bite-back/": "2026-10-15T08:20:16.000Z",
+    "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules": "2026-10-15T15:00:00.000Z",
+    "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers": "2026-10-15T12:35:24.000Z",
+    "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-15T15:10:44.000Z",
+    "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-15T14:22:43.000Z",
+    "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-15T14:16:55.000Z",
+    "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-15T13:30:00.000Z",
+    "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion": "2026-10-15T15:20:41.000Z",
+    "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures": "2026-10-15T14:27:18.000Z",
+    "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device": "2026-10-15T13:32:21.000Z",
+    "https://decrypt.co/381015/zcash-tanks-double-digits-after-meteoric-rise-sees-leverage-build-up": "2026-10-15T12:42:30.000Z",
+    "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681": "2026-10-15T14:43:35.000Z",
+    "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673": "2026-10-15T14:26:53.000Z",
+    "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668": "2026-10-15T14:01:06.000Z",
+    "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656": "2026-10-15T13:00:00.000Z",
+    "https://cryptoslate.com/ai-agents-keep-coming-back-for-crypto-as-x402-wallet-refill-rate-surges-to-89/": "2026-10-15T14:30:53.000Z",
+    "https://cryptoslate.com/ethereums-faster-exit-plan-would-preserve-an-earnings-hurdle-for-new-stakers/": "2026-10-15T13:20:02.000Z"
   }
 }
