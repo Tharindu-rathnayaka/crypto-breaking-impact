@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead": "2026-10-12T08:58:24.000Z",
-    "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years": "2026-10-12T08:32:17.000Z",
-    "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-12T08:45:58.000Z",
-    "https://cryptoslate.com/solana-sandwich-bots-took-29-7-million-before-costs-bitquery-estimates/": "2026-10-12T08:30:49.000Z",
-    "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet": "2026-10-12T16:18:03.000Z",
-    "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-12T18:55:49.000Z",
-    "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-12T18:38:14.000Z",
-    "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-12T16:51:05.000Z",
-    "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-12T16:30:21.000Z",
-    "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol": "2026-10-12T19:07:30.000Z",
-    "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp": "2026-10-12T18:09:15.000Z",
-    "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops": "2026-10-12T16:41:34.000Z",
-    "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis": "2026-10-12T16:32:17.000Z",
-    "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349": "2026-10-12T18:44:10.000Z",
-    "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313": "2026-10-12T17:06:25.000Z",
-    "https://cryptoslate.com/bitcoin-traders-brace-for-cpi-shock-with-451-million-in-downside-options-bets/": "2026-10-12T18:20:59.000Z",
-    "https://cryptoslate.com/solanas-cold-wallet-migration-plan-would-add-a-new-layer-between-keys-and-funds/": "2026-10-12T17:20:24.000Z",
-    "https://cryptoslate.com/eclair-merges-fixes-for-lightning-fee-losses-that-do-not-require-stolen-keys/": "2026-10-12T16:20:36.000Z",
     "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-13T00:52:52.000Z",
     "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million": "2026-10-13T05:45:10.000Z",
     "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million": "2026-10-13T05:27:17.000Z",
@@ -221,6 +203,18 @@
     "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131": "2026-10-19T06:23:16.000Z",
     "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers": "2026-10-19T05:23:02.000Z",
     "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-19T05:55:44.000Z",
-    "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-19T05:14:06.000Z"
+    "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-19T05:14:06.000Z",
+    "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes": "2026-10-19T20:21:13.000Z",
+    "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-19T20:22:41.000Z",
+    "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-19T19:54:38.000Z",
+    "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-19T19:16:19.000Z",
+    "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-19T19:03:23.000Z",
+    "https://decrypt.co/381351/hackers-running-apple-ios-android-phones": "2026-10-19T19:46:04.000Z",
+    "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments": "2026-10-19T19:16:04.000Z",
+    "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares": "2026-10-19T18:46:05.000Z",
+    "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems": "2026-10-19T18:16:04.000Z",
+    "https://cryptoslate.com/krakens-opt-in-european-wallet-can-expose-spot-holdings-to-futures-losses/": "2026-10-19T20:00:12.000Z",
+    "https://cryptoslate.com/strategys-discretionary-cash-falls-72-as-buyback-authorization-rises-to-3-billion/": "2026-10-19T19:00:23.000Z",
+    "https://cryptoslate.com/wall-streets-bitcoin-bears-quietly-retreated-despite-recent-plunge-toward-80000/": "2026-10-19T18:00:34.000Z"
   }
 }
