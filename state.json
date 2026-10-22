@@ -1,24 +1,6 @@
 {
   "seen": {
-    "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large": "2026-10-15T18:48:02.000Z",
-    "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession": "2026-10-15T18:16:04.000Z",
-    "https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code": "2026-10-15T17:36:05.000Z",
-    "https://cryptoslate.com/south-korea-names-two-crypto-firms-in-breach-wave-that-also-hit-major-banks/": "2026-10-15T19:00:53.000Z",
-    "https://cryptoslate.com/machi-reopens-eth-long-seven-minutes-after-269000-liquidation-loss/": "2026-10-15T18:00:37.000Z",
-    "https://cryptoslate.com/bitcoins-100000-dream-slips-away-as-939-million-crypto-wipeout-pushes-traders-toward-78000/": "2026-10-15T17:30:25.000Z",
-    "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-15T20:21:11.000Z",
-    "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba": "2026-10-15T22:16:03.000Z",
-    "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks": "2026-10-15T21:46:04.000Z",
-    "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading": "2026-10-15T20:31:04.000Z",
-    "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729": "2026-10-15T22:15:56.000Z",
-    "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720": "2026-10-15T21:41:14.000Z",
-    "https://cryptoslate.com/two-firms-control-corporate-bitcoin-buys-even-as-business-adoption-broadens/": "2026-10-15T21:10:08.000Z",
-    "https://cryptoslate.com/xrp-exchange-wallets-added-84-million-tokens-in-three-days-as-price-slipped-toward-1-30/": "2026-10-15T20:00:30.000Z",
-    "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-15T23:34:19.000Z",
-    "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-15T22:42:58.000Z",
     "https://cryptoslate.com/ledger-wants-customers-to-trust-its-new-849-device-as-criminals-compromise-existing-wallets/": "2026-10-16T00:00:02.000Z",
-    "https://cryptoslate.com/quantum-fixes-protect-bitcoin-but-legit-owners-risk-lockout/": "2026-10-15T22:40:17.000Z",
-    "https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam": "2026-10-15T23:03:27.000Z",
     "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own": "2026-10-16T04:29:19.000Z",
     "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound": "2026-10-16T04:14:22.000Z",
     "https://cryptoslate.com/crypto-market-cap-leaps-800b-in-q3-but-spot-volume-drops-14/": "2026-10-16T04:40:20.000Z",
@@ -221,6 +203,13 @@
     "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom": "2026-10-22T15:45:07.000Z",
     "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts": "2026-10-22T15:24:18.000Z",
     "https://cryptoslate.com/solana-bot-turns-just-12000-into-1-4-billion-in-trading-volume-as-fake-liquidity-floods-raydium/": "2026-10-22T16:20:56.000Z",
-    "https://cryptoslate.com/robinhood-generates-51-million-in-blockchain-fees-while-ethereum-settlement-costs-total-just-69000/": "2026-10-22T15:00:14.000Z"
+    "https://cryptoslate.com/robinhood-generates-51-million-in-blockchain-fees-while-ethereum-settlement-costs-total-just-69000/": "2026-10-22T15:00:14.000Z",
+    "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm": "2026-10-22T22:43:36.000Z",
+    "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-22T22:50:22.000Z",
+    "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-22T21:39:18.000Z",
+    "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know": "2026-10-22T22:21:46.000Z",
+    "https://cryptoslate.com/xrpl-recovers-from-network-slowdown-as-critical-security-upgrade-faces-two-week-delay/": "2026-10-22T23:40:48.000Z",
+    "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent/": "2026-10-22T22:30:38.000Z",
+    "https://cryptoslate.com/occ-drops-proposed-affiliate-rewards-presumption-but-stablecoin-yield-ban-stays/": "2026-10-22T21:20:12.000Z"
   }
 }
