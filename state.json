@@ -1,17 +1,6 @@
 {
   "seen": {
-    "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes": "2026-10-19T20:21:13.000Z",
-    "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-19T20:22:41.000Z",
-    "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-19T19:54:38.000Z",
-    "https://decrypt.co/381351/hackers-running-apple-ios-android-phones": "2026-10-19T19:46:04.000Z",
-    "https://cryptoslate.com/krakens-opt-in-european-wallet-can-expose-spot-holdings-to-futures-losses/": "2026-10-19T20:00:12.000Z",
-    "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-19T21:04:34.000Z",
-    "https://decrypt.co/381382/strive-buys-335-million-bitcoin": "2026-10-19T21:46:05.000Z",
-    "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares": "2026-10-19T21:15:04.000Z",
-    "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087": "2026-10-19T22:00:53.000Z",
     "https://cryptoslate.com/hyperliquid-wallet-adds-to-eth-short-after-19-8m-in-forced-closures/": "2026-10-19T23:40:46.000Z",
-    "https://cryptoslate.com/crypto-hacks-surge-55-to-1-2b-but-key-theft-drops-by-30/": "2026-10-19T22:30:40.000Z",
-    "https://cryptoslate.com/hoskinson-reveals-new-code-for-cardano-but-63m-tvl-exposes-a-gap/": "2026-10-19T21:20:24.000Z",
     "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock": "2026-10-20T08:24:01.000Z",
     "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-20T08:12:57.000Z",
     "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102": "2026-10-20T07:05:24.000Z",
@@ -248,6 +237,14 @@
     "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775": "2026-10-26T17:55:02.000Z",
     "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750": "2026-10-26T16:36:43.000Z",
     "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764": "2026-10-26T16:27:37.000Z",
-    "https://cryptoslate.com/strategy-makes-record-205-million-strc-buyback-as-strive-spends-511-million-on-bitcoin/": "2026-10-26T18:40:26.000Z"
+    "https://cryptoslate.com/strategy-makes-record-205-million-strc-buyback-as-strive-spends-511-million-on-bitcoin/": "2026-10-26T18:40:26.000Z",
+    "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-26T21:38:30.000Z",
+    "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-26T21:23:32.000Z",
+    "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield": "2026-10-26T22:16:03.000Z",
+    "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price": "2026-10-26T21:46:02.000Z",
+    "https://decrypt.co/381871/unitree-stock-jumps-investors-bet-chatbot-ai-robots-brain": "2026-10-26T21:16:03.000Z",
+    "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court": "2026-10-26T20:36:03.000Z",
+    "https://cryptoslate.com/crypto-traders-value-anthropic-at-1-9-trillion-as-investor-warns-its-ipo-could-mark-the-top-of-the-ai-bubble/": "2026-10-26T22:30:23.000Z",
+    "https://cryptoslate.com/august-updates-block-critical-private-key-leak-in-crypto-wallet-vultisig/": "2026-10-26T21:10:35.000Z"
   }
 }
