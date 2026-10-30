@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures": "2026-10-22T15:40:25.000Z",
-    "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time": "2026-10-22T14:58:31.000Z",
-    "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa": "2026-10-22T14:37:12.000Z",
-    "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-22T16:50:51.000Z",
-    "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-22T16:48:00.000Z",
-    "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-22T16:20:35.000Z",
-    "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-22T14:41:00.000Z",
-    "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days": "2026-10-22T16:31:07.000Z",
-    "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom": "2026-10-22T15:45:07.000Z",
-    "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts": "2026-10-22T15:24:18.000Z",
-    "https://cryptoslate.com/solana-bot-turns-just-12000-into-1-4-billion-in-trading-volume-as-fake-liquidity-floods-raydium/": "2026-10-22T16:20:56.000Z",
-    "https://cryptoslate.com/robinhood-generates-51-million-in-blockchain-fees-while-ethereum-settlement-costs-total-just-69000/": "2026-10-22T15:00:14.000Z",
     "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm": "2026-10-22T22:43:36.000Z",
     "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-22T22:50:22.000Z",
     "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-22T21:39:18.000Z",
@@ -246,6 +234,24 @@
     "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121": "2026-10-29T11:00:00.000Z",
     "https://cryptoslate.com/bitcoin-holders-waiting-for-a-2024-style-election-rally-face-a-different-test/": "2026-10-29T13:00:19.000Z",
     "https://cryptoslate.com/chinas-near-40-tech-rout-contrasts-with-bitcoins-27-gain-over-the-same-dates/": "2026-10-29T12:00:16.000Z",
-    "https://cryptoslate.com/north-koreas-600-million-fake-worker-empire-has-a-hidden-crypto-connection/": "2026-10-29T11:00:06.000Z"
+    "https://cryptoslate.com/north-koreas-600-million-fake-worker-empire-has-a-hidden-crypto-connection/": "2026-10-29T11:00:06.000Z",
+    "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses": "2026-10-29T18:55:35.000Z",
+    "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment": "2026-10-29T17:04:19.000Z",
+    "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets": "2026-10-29T16:51:18.000Z",
+    "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks": "2026-10-29T16:35:43.000Z",
+    "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca": "2026-10-29T16:11:18.000Z",
+    "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-29T17:12:03.000Z",
+    "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-29T17:08:41.000Z",
+    "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-29T16:27:39.000Z",
+    "https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident": "2026-10-29T18:53:44.000Z",
+    "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees": "2026-10-29T18:46:02.000Z",
+    "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority": "2026-10-29T17:46:02.000Z",
+    "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means": "2026-10-29T17:15:11.000Z",
+    "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode": "2026-10-29T16:32:47.000Z",
+    "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158": "2026-10-29T19:00:06.000Z",
+    "https://cryptoslate.com/aaves-midnight-usdc-withdrawals-briefly-left-lenders-with-little-spare-cash/": "2026-10-29T19:00:42.000Z",
+    "https://cryptoslate.com/crypto-investors-refuse-to-sell-xrp-etf-tokens-despite-a-25-price-crash/": "2026-10-29T18:50:59.000Z",
+    "https://cryptoslate.com/multicoin-wants-to-turn-ai-chips-into-collateral-for-cryptos-next-lending-boom/": "2026-10-29T17:40:06.000Z",
+    "https://cryptoslate.com/circle-wants-sec-to-erase-a-costly-wall-street-rule-holding-stablecoins-back/": "2026-10-29T16:30:28.000Z"
   }
 }
