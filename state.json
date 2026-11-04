@@ -1,17 +1,11 @@
 {
   "seen": {
     "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading": "2026-10-28T19:01:53.000Z",
-    "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data": "2026-10-28T18:11:31.000Z",
-    "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected": "2026-10-28T18:00:42.000Z",
     "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-28T19:10:40.000Z",
-    "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-28T18:00:54.000Z",
     "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m": "2026-10-28T20:16:03.000Z",
     "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey": "2026-10-28T19:46:03.000Z",
     "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia": "2026-10-28T19:16:02.000Z",
-    "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike": "2026-10-28T18:25:18.000Z",
     "https://cryptoslate.com/coinbase-says-it-wasnt-breached-but-hackers-dont-need-to-steal-crypto-to-hurt-users/": "2026-10-28T19:40:47.000Z",
-    "https://cryptoslate.com/polymarket-built-a-14-billion-us-trading-business-almost-entirely-on-sports-bets/": "2026-10-28T18:40:30.000Z",
-    "https://cryptoslate.com/galaxys-ai-data-centers-bring-79-million-in-lease-revenue-and-a-small-net-loss/": "2026-10-28T17:40:30.000Z",
     "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-28T21:35:52.000Z",
     "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc": "2026-10-28T21:46:02.000Z",
     "https://cryptoslate.com/bithumb-faces-on-site-inspections-after-reporting-signs-of-employee-data-leak/": "2026-10-28T23:40:57.000Z",
@@ -243,6 +237,22 @@
     "https://www.theblock.co/learn/defi/defi-explained-432391": "2026-11-04T11:05:30.000Z",
     "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633": "2026-11-04T09:37:45.000Z",
     "https://cryptoslate.com/binance-reports-11-billion-withdrawn-in-46-hours-as-zhao-says-few-funds-went-to-rivals/": "2026-11-04T11:10:32.000Z",
-    "https://cryptoslate.com/sec-ruling-lifts-canton-coin-6-as-a16z-sees-pathway-out-of-securities-laws/": "2026-11-04T10:10:35.000Z"
+    "https://cryptoslate.com/sec-ruling-lifts-canton-coin-6-as-a16z-sees-pathway-out-of-securities-laws/": "2026-11-04T10:10:35.000Z",
+    "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin": "2026-11-04T16:11:29.000Z",
+    "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom": "2026-11-04T16:08:14.000Z",
+    "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-04T18:47:56.000Z",
+    "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-04T18:02:42.000Z",
+    "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions": "2026-11-04T18:46:03.000Z",
+    "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization": "2026-11-04T18:16:02.000Z",
+    "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto": "2026-11-04T17:59:09.000Z",
+    "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank": "2026-11-04T17:06:03.000Z",
+    "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington": "2026-11-04T16:49:31.000Z",
+    "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities": "2026-11-04T16:29:36.000Z",
+    "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880": "2026-11-04T16:58:42.000Z",
+    "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878": "2026-11-04T16:27:49.000Z",
+    "https://cryptoslate.com/kamino-ties-most-of-weiszs-kmno-allocation-to-valuation-but-holders-have-no-foundation-revenue-claim/": "2026-11-04T18:50:41.000Z",
+    "https://cryptoslate.com/bitcoin-rockets-above-80000-for-first-time-since-binance-hack-despite-democrats-sweep-but-a-historical-crash-looms/": "2026-11-04T18:20:58.000Z",
+    "https://cryptoslate.com/us-stock-perpetuals-win-clearance-but-stock-market-halts-can-still-block-exits/": "2026-11-04T17:50:12.000Z",
+    "https://cryptoslate.com/bitcoins-mining-hedge-market-prices-a-winter-pause-after-difficultys-16-rebound/": "2026-11-04T16:50:39.000Z"
   }
 }
