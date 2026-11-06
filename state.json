@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter": "2026-10-30T19:55:00.000Z",
-    "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-30T19:01:58.000Z",
-    "https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand": "2026-10-30T20:53:23.000Z",
-    "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street": "2026-10-30T20:06:03.000Z",
-    "https://decrypt.co/382276/reddit-stock-plunges-30-googles-ai-search": "2026-10-30T19:31:02.000Z",
-    "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash": "2026-10-30T18:45:03.000Z",
-    "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison": "2026-10-30T18:16:02.000Z",
-    "https://cryptoslate.com/binance-hackers-deploy-never-seen-before-laundering-tactics-to-conceal-6-3-billion-theft/": "2026-10-30T20:30:08.000Z",
-    "https://cryptoslate.com/binance-gives-48-hour-withdrawal-target-while-bitcoin-deposits-remain-open/": "2026-10-30T19:50:36.000Z",
-    "https://cryptoslate.com/coinbases-719-million-profit-reveals-a-company-caught-between-two-crypto-economies/": "2026-10-30T18:40:11.000Z",
     "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve": "2026-10-31T05:01:32.000Z",
     "https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans/": "2026-10-31T03:40:43.000Z",
     "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem": "2026-10-31T16:09:30.000Z",
@@ -240,6 +230,22 @@
     "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885": "2026-11-06T13:40:22.000Z",
     "https://cryptoslate.com/bitcoin-etfs-bought-nearly-twice-what-miners-produced-in-q3-but-430-million-left-on-thursday/": "2026-11-06T15:30:30.000Z",
     "https://cryptoslate.com/bank-of-england-raises-rates-to-4-as-it-forecasts-inflation-near-5-next-year/": "2026-11-06T14:30:41.000Z",
-    "https://cryptoslate.com/cheap-online-services-routed-web-traffic-through-a-white-house-linked-network-researchers-say/": "2026-11-06T13:48:19.000Z"
+    "https://cryptoslate.com/cheap-online-services-routed-web-traffic-through-a-white-house-linked-network-researchers-say/": "2026-11-06T13:48:19.000Z",
+    "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch": "2026-11-06T20:09:18.000Z",
+    "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T21:05:25.000Z",
+    "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T20:51:23.000Z",
+    "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T20:36:25.000Z",
+    "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T20:04:27.000Z",
+    "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T18:47:45.000Z",
+    "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system": "2026-11-06T21:06:03.000Z",
+    "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi": "2026-11-06T20:36:03.000Z",
+    "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker": "2026-11-06T19:46:03.000Z",
+    "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears": "2026-11-06T19:16:03.000Z",
+    "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957": "2026-11-06T21:02:30.000Z",
+    "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951": "2026-11-06T20:37:34.000Z",
+    "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934": "2026-11-06T18:58:58.000Z",
+    "https://cryptoslate.com/metr-says-anthropics-model-progress-is-roughly-twice-as-fast-but-key-evidence-remains-redacted/": "2026-11-06T21:00:55.000Z",
+    "https://cryptoslate.com/greece-ends-years-of-crypto-tax-uncertainty-with-new-10-levy-on-bitcoin-profits/": "2026-11-06T20:00:30.000Z",
+    "https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks/": "2026-11-06T18:40:30.000Z"
   }
 }
