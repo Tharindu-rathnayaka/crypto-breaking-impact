@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189": "2026-10-30T08:57:09.000Z",
-    "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196": "2026-10-30T08:55:39.000Z",
-    "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack": "2026-10-30T14:13:34.000Z",
-    "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-30T13:30:00.000Z",
-    "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-30T13:11:10.000Z",
-    "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack": "2026-10-30T14:17:34.000Z",
-    "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214": "2026-10-30T14:30:49.000Z",
-    "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208": "2026-10-30T13:14:56.000Z",
-    "https://cryptoslate.com/mexc-pulls-out-of-four-countries-despite-ambitious-plan-to-rival-global-trading-giants/": "2026-10-30T15:15:42.000Z",
-    "https://cryptoslate.com/cz-asks-musk-to-stop-trolling-saying-our-spacex-shares-top-1-billion/": "2026-10-30T14:30:37.000Z",
-    "https://cryptoslate.com/bitcoin-fell-after-the-feds-pause-but-blaming-interest-rates-misses-the-binance-shock/": "2026-10-30T14:00:23.000Z",
     "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter": "2026-10-30T19:55:00.000Z",
     "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-10-30T19:01:58.000Z",
     "https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand": "2026-10-30T20:53:23.000Z",
@@ -237,6 +226,20 @@
     "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T06:54:34.000Z",
     "https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813": "2026-11-06T08:34:02.000Z",
     "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807": "2026-11-06T07:36:42.000Z",
-    "https://cryptoslate.com/bitcoins-rate-cut-relief-stalls-as-service-inflation-flares/": "2026-11-06T06:40:14.000Z"
+    "https://cryptoslate.com/bitcoins-rate-cut-relief-stalls-as-service-inflation-flares/": "2026-11-06T06:40:14.000Z",
+    "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story": "2026-11-06T15:26:38.000Z",
+    "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty": "2026-11-06T14:33:49.000Z",
+    "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate": "2026-11-06T13:31:54.000Z",
+    "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T14:30:00.000Z",
+    "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T13:57:14.000Z",
+    "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic": "2026-11-06T14:04:18.000Z",
+    "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai": "2026-11-06T13:53:04.000Z",
+    "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater": "2026-11-06T13:29:20.000Z",
+    "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907": "2026-11-06T16:07:24.000Z",
+    "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901": "2026-11-06T15:00:00.000Z",
+    "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885": "2026-11-06T13:40:22.000Z",
+    "https://cryptoslate.com/bitcoin-etfs-bought-nearly-twice-what-miners-produced-in-q3-but-430-million-left-on-thursday/": "2026-11-06T15:30:30.000Z",
+    "https://cryptoslate.com/bank-of-england-raises-rates-to-4-as-it-forecasts-inflation-near-5-next-year/": "2026-11-06T14:30:41.000Z",
+    "https://cryptoslate.com/cheap-online-services-routed-web-traffic-through-a-white-house-linked-network-researchers-say/": "2026-11-06T13:48:19.000Z"
   }
 }
