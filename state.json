@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-02T03:55:50.000Z",
-    "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270": "2026-11-02T04:11:05.000Z",
-    "https://cryptoslate.com/rlusd-supply-fell-29-on-xrpl-one-xrp-trading-pool-barely-changed/": "2026-11-02T03:40:42.000Z",
     "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens": "2026-11-02T12:37:24.000Z",
     "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump": "2026-11-02T12:30:17.000Z",
     "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets": "2026-11-02T11:57:45.000Z",
@@ -10,12 +7,10 @@
     "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-02T12:40:45.000Z",
     "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-02T11:19:18.000Z",
     "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-02T10:46:59.000Z",
-    "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-02T10:14:55.000Z",
     "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports": "2026-11-02T12:24:18.000Z",
     "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals": "2026-11-02T10:36:19.000Z",
     "https://cryptoslate.com/bitcoin-catches-a-break-from-falling-oil-prices-but-opec-raises-new-fed-concerns/": "2026-11-02T12:40:41.000Z",
     "https://cryptoslate.com/solana-validators-told-to-act-immediately-as-critical-linux-vulnerability-emerges/": "2026-11-02T11:20:48.000Z",
-    "https://cryptoslate.com/polygon-brings-us-banking-access-to-solanas-15-billion-stablecoin-market/": "2026-11-02T10:00:53.000Z",
     "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote": "2026-11-02T21:38:53.000Z",
     "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-02T21:16:24.000Z",
     "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-02T20:22:23.000Z",
@@ -239,6 +234,14 @@
     "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034": "2026-11-08T23:07:02.000Z",
     "https://cryptoslate.com/xrp-could-double-while-this-yield-strategy-leaves-you-far-behind/": "2026-11-08T21:30:38.000Z",
     "https://cryptoslate.com/who-gets-to-block-your-kalshi-bets-washington-just-escalated-the-fight/": "2026-11-08T20:30:31.000Z",
-    "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779": "2026-11-09T02:36:01.000Z"
+    "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779": "2026-11-09T02:36:01.000Z",
+    "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator": "2026-11-09T10:00:00.000Z",
+    "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead": "2026-11-09T09:33:27.000Z",
+    "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-09T10:03:40.000Z",
+    "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-09T09:00:17.000Z",
+    "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-09T08:17:35.000Z",
+    "https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort": "2026-11-09T09:50:21.000Z",
+    "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909": "2026-11-09T09:05:02.000Z",
+    "https://cryptoslate.com/polygon-wants-to-move-70-million-pol-without-the-wallet-holders-signatures/": "2026-11-09T10:08:06.000Z"
   }
 }
