@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats": "2026-11-05T18:59:45.000Z",
-    "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full": "2026-11-05T18:48:40.000Z",
-    "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-05T19:02:19.000Z",
-    "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt": "2026-11-05T21:36:03.000Z",
-    "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse": "2026-11-05T20:46:02.000Z",
-    "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data": "2026-11-05T20:16:03.000Z",
-    "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto": "2026-11-05T19:46:03.000Z",
-    "https://decrypt.co/382632/openai-linux-security-flaws-exploit": "2026-11-05T19:16:03.000Z",
-    "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434": "2026-11-05T20:11:02.000Z",
-    "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433": "2026-11-05T19:00:00.000Z",
-    "https://cryptoslate.com/bitcoin-traders-face-fridays-2-7-billion-options-expiry-with-a-dangerous-five-hour-blind-spot/": "2026-11-05T20:40:25.000Z",
-    "https://cryptoslate.com/south-korea-wants-to-delay-its-22-crypto-tax-again-and-give-investors-a-new-break-on-losses/": "2026-11-05T19:30:45.000Z",
-    "https://cryptoslate.com/bitcoin-crashes-below-76000-as-ai-bubble-fears-wipe-2-5-trillion-from-wall-street/": "2026-11-05T18:50:46.000Z",
     "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc": "2026-11-06T01:30:00.000Z",
     "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T00:19:49.000Z",
     "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic": "2026-11-05T23:06:02.000Z",
@@ -227,6 +214,21 @@
     "https://cryptoslate.com/alphagenome-2-disease-clues-cells/": "2026-11-12T16:45:25.000Z",
     "https://cryptoslate.com/bitcoin-spot-demand-futures-slump/": "2026-11-12T15:45:21.000Z",
     "https://cryptoslate.com/bitcoin-plunges-to-71k-as-jensen-huang-abruptly-resigns-sending-nvidia-into-2-trillion-wipeout/": "2026-11-12T15:04:58.000Z",
-    "https://cryptoslate.com/voorhees-sauron-government-ai-veto/": "2026-11-12T14:45:29.000Z"
+    "https://cryptoslate.com/voorhees-sauron-government-ai-veto/": "2026-11-12T14:45:29.000Z",
+    "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment": "2026-11-12T21:07:49.000Z",
+    "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-12T22:05:01.000Z",
+    "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-12T21:52:04.000Z",
+    "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-12T20:58:06.000Z",
+    "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-12T20:07:41.000Z",
+    "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls": "2026-11-12T22:06:03.000Z",
+    "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes": "2026-11-12T21:26:03.000Z",
+    "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet": "2026-11-12T20:36:03.000Z",
+    "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050": "2026-11-12T22:18:10.000Z",
+    "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052": "2026-11-12T21:44:30.000Z",
+    "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310": "2026-11-12T20:02:00.000Z",
+    "https://cryptoslate.com/anthropics-new-ai-leads-freelance-benchmarks-yet-fails-58-of-the-tasks/": "2026-11-12T21:40:20.000Z",
+    "https://cryptoslate.com/helius-encrypts-solana-transfers-without-removing-operator-trust/": "2026-11-12T20:10:03.000Z",
+    "https://bitcoinmagazine.com/videos/jensen-huang-steps-down-are-the-cracks-beginning-to-show-in-circular-ai-financing": "2026-11-12T21:00:13.000Z",
+    "https://bitcoinmagazine.com/videos/peter-schiff-on-the-bitcoin-crash-get-the-hell-out": "2026-11-12T20:15:28.000Z"
   }
 }
