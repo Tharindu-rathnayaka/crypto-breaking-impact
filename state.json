@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story": "2026-11-06T15:26:38.000Z",
-    "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty": "2026-11-06T14:33:49.000Z",
-    "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate": "2026-11-06T13:31:54.000Z",
-    "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T14:30:00.000Z",
-    "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T13:57:14.000Z",
-    "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic": "2026-11-06T14:04:18.000Z",
-    "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai": "2026-11-06T13:53:04.000Z",
-    "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater": "2026-11-06T13:29:20.000Z",
-    "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907": "2026-11-06T16:07:24.000Z",
-    "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901": "2026-11-06T15:00:00.000Z",
-    "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885": "2026-11-06T13:40:22.000Z",
-    "https://cryptoslate.com/bitcoin-etfs-bought-nearly-twice-what-miners-produced-in-q3-but-430-million-left-on-thursday/": "2026-11-06T15:30:30.000Z",
-    "https://cryptoslate.com/bank-of-england-raises-rates-to-4-as-it-forecasts-inflation-near-5-next-year/": "2026-11-06T14:30:41.000Z",
-    "https://cryptoslate.com/cheap-online-services-routed-web-traffic-through-a-white-house-linked-network-researchers-say/": "2026-11-06T13:48:19.000Z",
     "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch": "2026-11-06T20:09:18.000Z",
     "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T21:05:25.000Z",
     "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T20:51:23.000Z",
@@ -234,6 +220,18 @@
     "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669": "2026-11-13T09:32:39.000Z",
     "https://cryptoslate.com/googles-new-ai-can-make-100-decisions-in-under-a-second-without-writing-an-answer/": "2026-11-13T10:30:16.000Z",
     "https://cryptoslate.com/bitcoin-could-face-a-cash-squeeze-without-another-fed-rate-hike/": "2026-11-13T09:30:12.000Z",
-    "https://cryptoslate.com/czech-central-bank-tests-dlt-bonds-boxing-out-stablecoins/": "2026-11-13T08:30:07.000Z"
+    "https://cryptoslate.com/czech-central-bank-tests-dlt-bonds-boxing-out-stablecoins/": "2026-11-13T08:30:07.000Z",
+    "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations": "2026-11-13T17:05:43.000Z",
+    "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms": "2026-11-13T16:01:27.000Z",
+    "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-13T16:39:11.000Z",
+    "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto": "2026-11-13T17:56:03.000Z",
+    "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally": "2026-11-13T17:22:54.000Z",
+    "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053": "2026-11-13T16:37:26.000Z",
+    "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721": "2026-11-13T15:31:22.000Z",
+    "https://cryptoslate.com/amazon-ai-written-aws-emulator-code/": "2026-11-13T17:30:52.000Z",
+    "https://cryptoslate.com/lido-earn-loss-protection-depositors/": "2026-11-13T16:30:25.000Z",
+    "https://cryptoslate.com/yen-intervention-euros-bitcoin-liquidity/": "2026-11-13T15:30:50.000Z",
+    "https://bitcoinmagazine.com/news/futurebit-apollo-iii-hits-micro-center-shelves": "2026-11-13T16:39:33.000Z",
+    "https://bitcoinmagazine.com/news/robinhood-crypto-volume-falls-48-percent": "2026-11-13T15:30:00.000Z"
   }
 }
