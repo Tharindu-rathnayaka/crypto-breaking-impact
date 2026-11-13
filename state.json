@@ -1,23 +1,6 @@
 {
   "seen": {
-    "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch": "2026-11-06T20:09:18.000Z",
-    "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T21:05:25.000Z",
-    "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T20:51:23.000Z",
-    "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T20:36:25.000Z",
-    "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T20:04:27.000Z",
-    "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-06T18:47:45.000Z",
-    "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system": "2026-11-06T21:06:03.000Z",
-    "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi": "2026-11-06T20:36:03.000Z",
-    "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker": "2026-11-06T19:46:03.000Z",
-    "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears": "2026-11-06T19:16:03.000Z",
-    "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957": "2026-11-06T21:02:30.000Z",
-    "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951": "2026-11-06T20:37:34.000Z",
-    "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934": "2026-11-06T18:58:58.000Z",
-    "https://cryptoslate.com/metr-says-anthropics-model-progress-is-roughly-twice-as-fast-but-key-evidence-remains-redacted/": "2026-11-06T21:00:55.000Z",
-    "https://cryptoslate.com/greece-ends-years-of-crypto-tax-uncertainty-with-new-10-levy-on-bitcoin-profits/": "2026-11-06T20:00:30.000Z",
-    "https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks/": "2026-11-06T18:40:30.000Z",
     "https://cryptoslate.com/bitcoin-faces-70000-risk-as-investors-realize-2-billion-in-losses-and-us-jobs-shock-deepens-pressure/": "2026-11-07T00:40:34.000Z",
-    "https://cryptoslate.com/bitcoin-and-usdt-attract-modest-premiums-in-paraguay-as-millions-face-banking-crisis/": "2026-11-06T23:20:28.000Z",
     "https://cryptoslate.com/eip-8037-state-gas-rules-force-ethereum-dapps-to-rewrite-billing/": "2026-11-07T06:10:22.000Z",
     "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/": "2026-11-07T04:40:10.000Z",
     "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-07T13:30:00.000Z",
@@ -232,6 +215,18 @@
     "https://cryptoslate.com/lido-earn-loss-protection-depositors/": "2026-11-13T16:30:25.000Z",
     "https://cryptoslate.com/yen-intervention-euros-bitcoin-liquidity/": "2026-11-13T15:30:50.000Z",
     "https://bitcoinmagazine.com/news/futurebit-apollo-iii-hits-micro-center-shelves": "2026-11-13T16:39:33.000Z",
-    "https://bitcoinmagazine.com/news/robinhood-crypto-volume-falls-48-percent": "2026-11-13T15:30:00.000Z"
+    "https://bitcoinmagazine.com/news/robinhood-crypto-volume-falls-48-percent": "2026-11-13T15:30:00.000Z",
+    "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out": "2026-11-13T23:30:00.000Z",
+    "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-13T22:01:03.000Z",
+    "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-13T21:49:27.000Z",
+    "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-13T21:01:39.000Z",
+    "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-13T20:53:20.000Z",
+    "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang": "2026-11-13T22:16:03.000Z",
+    "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight": "2026-11-13T21:36:03.000Z",
+    "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts": "2026-11-13T20:45:03.000Z",
+    "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215": "2026-11-13T20:55:26.000Z",
+    "https://cryptoslate.com/binance-funds-theft-us-court-orders-cover-over-1-2-billion-with-return-unresolved/": "2026-11-13T23:40:49.000Z",
+    "https://cryptoslate.com/diesel-prices-plunge-8-yet-bitcoin-traders-face-a-squeeze/": "2026-11-13T22:20:46.000Z",
+    "https://cryptoslate.com/xrp-loans-trigger-883-liquidations-and-53m-remains-at-risk/": "2026-11-13T20:50:08.000Z"
   }
 }
