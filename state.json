@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out": "2026-11-09T19:36:15.000Z",
-    "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-09T20:26:34.000Z",
-    "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-09T19:52:34.000Z",
-    "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-09T18:25:29.000Z",
-    "https://decrypt.co/382874/google-nvidia-new-ai-chips-privacy-massive-memory-ai": "2026-11-09T20:16:02.000Z",
-    "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto": "2026-11-09T19:36:02.000Z",
-    "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation": "2026-11-09T19:06:03.000Z",
-    "https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves": "2026-11-09T18:31:03.000Z",
-    "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898": "2026-11-09T20:04:49.000Z",
-    "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739": "2026-11-09T18:30:22.000Z",
-    "https://cryptoslate.com/xrps-new-euro-cash-out-route-had-less-than-e100-in-its-direct-market/": "2026-11-09T20:00:36.000Z",
-    "https://cryptoslate.com/a-brazilian-crypto-exchange-plans-to-show-customers-their-money-not-let-them-move-it/": "2026-11-09T19:10:21.000Z",
-    "https://cryptoslate.com/the-missing-step-in-the-warning-that-japan-could-trigger-bitcoins-next-selloff/": "2026-11-09T18:20:52.000Z",
     "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-10T00:42:39.000Z",
     "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955": "2026-11-10T02:13:07.000Z",
     "https://cryptoslate.com/binance-cfo-leaves-the-company-to-tokenize-real-assets/": "2026-11-10T02:20:23.000Z",
@@ -237,6 +224,19 @@
     "https://www.theblock.co/learn/basics/layer-2-scaling-explained-436103": "2026-11-16T14:56:48.000Z",
     "https://www.theblock.co/news/markets/2026-11-16-bitwise-cio-says-bitcoin-may-fall-further-in-the-near-term-but-still-calls-it-the-best-risk-adjusted-trade-of-the-next-decade-440901": "2026-11-16T14:52:43.000Z",
     "https://cryptoslate.com/michael-saylor-says-banks-could-ignite-bitcoins-next-rally-as-strategy-eyes-48-billion-credit-expansion/": "2026-11-16T15:40:42.000Z",
-    "https://cryptoslate.com/record-hedge-fund-leverage-could-soon-spill-over-into-bitcoin/": "2026-11-16T14:30:20.000Z"
+    "https://cryptoslate.com/record-hedge-fund-leverage-could-soon-spill-over-into-bitcoin/": "2026-11-16T14:30:20.000Z",
+    "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid": "2026-11-16T21:51:04.000Z",
+    "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-16T23:50:41.000Z",
+    "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-16T22:54:57.000Z",
+    "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-16T22:46:44.000Z",
+    "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": "2026-11-16T22:19:41.000Z",
+    "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it": "2026-11-16T22:46:02.000Z",
+    "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data": "2026-11-16T22:18:03.000Z",
+    "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000": "2026-11-16T21:46:03.000Z",
+    "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591": "2026-11-16T23:27:15.000Z",
+    "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524": "2026-11-16T21:44:25.000Z",
+    "https://cryptoslate.com/aaves-revenue-falls-10m-in-q3-but-one-metric-tells-a-new-story/": "2026-11-16T23:30:57.000Z",
+    "https://cryptoslate.com/bitcoin-lightning-developers-patch-bug-that-could-make-completed-payments-disappear/": "2026-11-16T22:10:43.000Z",
+    "https://cryptoslate.com/strategy-planned-to-slow-strc-buybacks-near-100-but-spent-another-1-4-billion-instead/": "2026-11-16T21:40:03.000Z"
   }
 }
